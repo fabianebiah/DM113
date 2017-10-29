@@ -1,0 +1,28 @@
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\obj\Debug\EstoqueLibrary.csprojResolveAssemblyReference.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\obj\Debug\EstoqueLibrary.csproj.CoreCompileInputs.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EstoqueLibrary.dll.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EstoqueLibrary.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EstoqueLibrary.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\obj\Debug\EstoqueLibrary.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\obj\Debug\EstoqueLibrary.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EntityFramework.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EstoqueEntityModel.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EstoqueEntityModel.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EstoqueEntityModel.dll.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EntityFramework.xml
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EstoqueLibrary.dll.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EstoqueLibrary.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EstoqueLibrary.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EntityFramework.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EstoqueEntityModel.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EstoqueEntityModel.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EstoqueEntityModel.dll.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EntityFramework.xml
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\obj\Debug\EstoqueLibrary.csprojResolveAssemblyReference.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\obj\Debug\EstoqueLibrary.csproj.CoreCompileInputs.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\obj\Debug\EstoqueLibrary.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\EstoqueLibrary\obj\Debug\EstoqueLibrary.pdb

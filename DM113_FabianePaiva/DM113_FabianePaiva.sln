@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueEntityModel", "EstoqueEntityModel\EstoqueEntityModel.csproj", "{419A066C-67B5-40CB-8F07-37AF4BE22438}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServicoEstoque", "ServicoEstoque\", "{784FA8CA-9E9C-441D-8840-D8EA7BBCF799}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{419a066c-67b5-40cb-8f07-37af4be22438}|EstoqueEntityModel.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62284"
+		Debug.AspNetCompiler.PhysicalPath = "ServicoEstoque\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62284\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62284"
+		Release.AspNetCompiler.PhysicalPath = "ServicoEstoque\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62284\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62284"
+		SlnRelativePath = "ServicoEstoque\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueLibrary", "EstoqueLibrary\EstoqueLibrary.csproj", "{AAFACA82-6826-4041-97D8-160384DB2662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente1", "Cliente1\Cliente1.csproj", "{99043B25-EBB6-4BA2-A7E5-877E864DE1CD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{784FA8CA-9E9C-441D-8840-D8EA7BBCF799} = {784FA8CA-9E9C-441D-8840-D8EA7BBCF799}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvedorEstoqueHost", "ProvedorEstoqueHost\ProvedorEstoqueHost.csproj", "{0EEC071A-02DB-4CCB-A3AC-11BC68261302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente2", "Cliente2\Cliente2.csproj", "{E28E5BED-526B-4F75-B274-0500923816D2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{784FA8CA-9E9C-441D-8840-D8EA7BBCF799} = {784FA8CA-9E9C-441D-8840-D8EA7BBCF799}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419A066C-67B5-40CB-8F07-37AF4BE22438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419A066C-67B5-40CB-8F07-37AF4BE22438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419A066C-67B5-40CB-8F07-37AF4BE22438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419A066C-67B5-40CB-8F07-37AF4BE22438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784FA8CA-9E9C-441D-8840-D8EA7BBCF799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784FA8CA-9E9C-441D-8840-D8EA7BBCF799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784FA8CA-9E9C-441D-8840-D8EA7BBCF799}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{784FA8CA-9E9C-441D-8840-D8EA7BBCF799}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{AAFACA82-6826-4041-97D8-160384DB2662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFACA82-6826-4041-97D8-160384DB2662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFACA82-6826-4041-97D8-160384DB2662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFACA82-6826-4041-97D8-160384DB2662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99043B25-EBB6-4BA2-A7E5-877E864DE1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99043B25-EBB6-4BA2-A7E5-877E864DE1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99043B25-EBB6-4BA2-A7E5-877E864DE1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99043B25-EBB6-4BA2-A7E5-877E864DE1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEC071A-02DB-4CCB-A3AC-11BC68261302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEC071A-02DB-4CCB-A3AC-11BC68261302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEC071A-02DB-4CCB-A3AC-11BC68261302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEC071A-02DB-4CCB-A3AC-11BC68261302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E28E5BED-526B-4F75-B274-0500923816D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28E5BED-526B-4F75-B274-0500923816D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28E5BED-526B-4F75-B274-0500923816D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28E5BED-526B-4F75-B274-0500923816D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE9FE939-F0AD-48F8-A334-BFE764D6A097}
+	EndGlobalSection
+EndGlobal

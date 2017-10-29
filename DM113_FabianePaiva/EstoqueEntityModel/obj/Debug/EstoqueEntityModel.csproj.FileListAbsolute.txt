@@ -1,0 +1,13 @@
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\bin\Debug\EntityFramework.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\bin\Debug\EntityFramework.xml
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csprojResolveAssemblyReference.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CoreCompileInputs.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.Migrations.Criacao_do_Banco.resources
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente2\bin\Debug\Cliente2.exe.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente2\bin\Debug\Cliente2.exe
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente2\bin\Debug\Cliente2.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente2\obj\Debug\Cliente2.csprojResolveAssemblyReference.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente2\obj\Debug\Cliente2.csproj.CoreCompileInputs.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente2\obj\Debug\Cliente2.exe
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente2\obj\Debug\Cliente2.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente2\bin\Debug\Cliente2.exe.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente2\bin\Debug\Cliente2.exe
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente2\bin\Debug\Cliente2.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente2\obj\Debug\Cliente2.csprojResolveAssemblyReference.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente2\obj\Debug\Cliente2.csproj.CoreCompileInputs.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente2\obj\Debug\Cliente2.exe
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente2\obj\Debug\Cliente2.pdb

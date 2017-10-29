@@ -1,0 +1,24 @@
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\bin\Debug\Cliente1.exe.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\bin\Debug\Cliente1.exe
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\bin\Debug\Cliente1.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\bin\Debug\EstoqueEntityModel.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\bin\Debug\EntityFramework.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\bin\Debug\EstoqueEntityModel.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\bin\Debug\EstoqueEntityModel.dll.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\bin\Debug\EntityFramework.xml
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\obj\Debug\Cliente1.csprojResolveAssemblyReference.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\obj\Debug\Cliente1.exe
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva\Cliente1\obj\Debug\Cliente1.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\bin\Debug\Cliente1.exe.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\bin\Debug\Cliente1.exe
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\bin\Debug\Cliente1.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\bin\Debug\EstoqueEntityModel.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\bin\Debug\EntityFramework.dll
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\bin\Debug\EstoqueEntityModel.pdb
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\bin\Debug\EstoqueEntityModel.dll.config
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\bin\Debug\EntityFramework.xml
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\obj\Debug\Cliente1.csprojResolveAssemblyReference.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\obj\Debug\Cliente1.exe
+D:\pós\DM113 - Desenvolvimento de serviço SOAP com WCF em C#\Projetos\DM113_FabianePaiva - Copia\Cliente1\obj\Debug\Cliente1.pdb
